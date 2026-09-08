@@ -1,6 +1,6 @@
 # <img src="./assets/.png" height="24" alt=""> C Languages
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"> 
 
 > **미림마이스터고등학교 뉴미디어소프트웨어과 1학년**
 > * **방과후명**: C언어 기초 (1학기) | 방과후 B, 36시수 (18:20 ~ 20:00)
