@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define _CRT_SECURE_NO_WARNINGS // Visual Studio 2022에서 scanf() 함수 오류 문제 - scanf() 함수 사용 시 보안 경고를 무시하기 위한 매크로 정의
+#define _CRT_SECURE_NO_WARNINGS // Visual Studio 환경에서 scanf() 사용 시 발생하는 보안 경고를 비활성화
 
 int main(void) {
     int money, change;
