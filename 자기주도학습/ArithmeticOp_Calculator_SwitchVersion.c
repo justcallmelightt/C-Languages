@@ -27,7 +27,7 @@ int main() {
             printf("지원되지 않는 연산자입니다.\n");
             break;
     }
-    
+
     printf("%d %c %d = %d", x, op, y, result);
 
     return 0;
