@@ -2,7 +2,7 @@
 
 int main() {
     int i = 3;
-    
+
     while (i) {
         printf("%d은 참입니다.\n", i);
         i--;
